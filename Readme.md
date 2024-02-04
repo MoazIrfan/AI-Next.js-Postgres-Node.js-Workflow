@@ -1,6 +1,5 @@
 
-# AI-CRUD-Next-Node-Postgres-Workflow
-
+# AI-Next.js-Postgres-Node.js-Workflow
 
 > Perform CRUD Operations with AI Chat.
 
@@ -26,12 +25,12 @@ AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.
    - Start the frontend locally.
    - Run the database and backend containers.
 
-[![📟](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/my-fav.gif)](./../../)
+[![📟](https://raw.githubusercontent.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow/main/.github/my-fav.gif)](./../../)
 
 
 <br>
 
-[![📃](https://raw.githubusercontent.com/MoazIrfan/react-tailwind-app/main/.github/license.png)](./../../)
+[![📃](https://raw.githubusercontent.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow/main/.github/license.png)](./../../)
 
 ## License
 
@@ -39,7 +38,7 @@ MIT © [Moaz Irfan](https://moazirfan.com)
 
 <br>
 
-[![🙌](https://github.com/MoazIrfan/react-tailwind-app/raw/main/.github/connect.png)](./../../)
+[![🙌](https://github.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow/raw/main/.github/connect.png)](./../../)
 
 ## Connect
 
