@@ -22,8 +22,15 @@ AI-powered CRUD Next.js app with Postgres Database, and Node.js Backend.
    or
 
 3. Run frontend and containers locally:
-   - cd to frontend folder and start locally.
+   - Navigate to the frontend folder and start the frontend locally.
+   ```
+    yarn dev
+    ```
    - Run the database and backend containers.
+   ```
+    docker compose up db
+    docker compose up backend
+    ```
 
 [![📟](https://raw.githubusercontent.com/MoazIrfan/AI-Next.js-Postgres-Node.js-Workflow/main/.github/myfav.gif)](./../../)
 
